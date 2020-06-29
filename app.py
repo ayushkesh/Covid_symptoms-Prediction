@@ -68,7 +68,7 @@ def main():
         
     html_temp1 = """
     <div style="background-color:#f63366">
-    <p style="color:white;text-align:center;" >Designe & Developed By: <b>Ayush Kumar</b> </p>
+    <p style="color:white;text-align:center;" >By: <b>Ayush Kumar</b> </p>
     </div>
     """
     st.markdown(html_temp1,unsafe_allow_html=True)
