@@ -44,7 +44,7 @@ def main():
     """
   
     st.markdown(html_temp , unsafe_allow_html= True)
-    image = Image.open('covid_1.png')
+    image = Image.open('covid_1.PNG')
     st.image(image, use_column_width=True,format='PNG')
     
     Age = st.slider('Age', 0,100)
