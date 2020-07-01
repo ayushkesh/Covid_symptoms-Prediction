@@ -1,4 +1,4 @@
-# Covid_symptoms-Prediction
+# Covid_symptoms-Prediction 
 
 1. [ Demo ](#demo)
 2. [ Overview ](#overview)
