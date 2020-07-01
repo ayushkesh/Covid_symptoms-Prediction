@@ -1,12 +1,12 @@
 # Covid_symptoms-Prediction
-![Sweetviz](https://github.com/ayushkesh/Covid_symptoms-Prediction/blob/master/covid_19.jpg)
-
-
 
 1. [ Demo ](#demo)
 2. [ Overview ](#overview)
 3. [ Installation](#install)
 4. [ Run ](#run)
+
+![Sweetviz](https://github.com/ayushkesh/Covid_symptoms-Prediction/blob/master/covid_19.jpg)
+
 <a name="demo"></a>
 ### Demo
 
